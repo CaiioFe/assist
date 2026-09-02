@@ -2,13 +2,22 @@
 
 > Seu dia a dia num só lugar: tarefas, hábitos, água, humor e treinos, com IA priorizando o que importa e gamificação pra manter a constância.
 
-![Painel](screenshots/01-painel.png)
-![Jogo](screenshots/02-jogo.png)
-![Tarefas](screenshots/03-tarefas.png)
-![Agenda](screenshots/04-agenda.png)
-![Diário](screenshots/05-diario.png)
+<table>
+<tr>
+<td width="50%"><img src="screenshots/01-painel.png" /><br><sub>Painel</sub></td>
+<td width="50%"><img src="screenshots/02-jogo.png" /><br><sub>Jogo (gamificação)</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/03-tarefas.png" /><br><sub>Tarefas</sub></td>
+<td width="50%"><img src="screenshots/04-agenda.png" /><br><sub>Agenda</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/05-diario.png" /><br><sub>Diário</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
 
-> Os prints acima têm blur proposital nas informações reais (tarefas, compromissos e entradas de diário) — é o meu uso pessoal do dia a dia.
+> Os prints com dados reais (tarefas, compromissos e entradas de diário) têm blur proposital — é o meu uso pessoal do dia a dia.
 
 ## O problema
 
