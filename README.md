@@ -29,15 +29,16 @@ O Assist centraliza o acompanhamento do dia: você registra tarefas, hábitos, c
 
 ## Funcionalidades
 
+- **Captura rápida**: registro de tarefa por texto ou voz, direto da tela inicial
 - **Triturador de Tarefas (IA)**: propõe um "Top 3" do dia com base nas tarefas em aberto, com opção de confirmar, adiar ou trocar a sugestão
 - **Tarefas**: quadro kanban (backlog, em andamento, em análise, bloqueada) organizado por projeto/área, com prioridade e prazo
 - **Jogo**: camada de gamificação própria — nível, liga, XP, missões diárias e semanais, e pilares de evolução (Mente, Ritmo, Saúde, Corpo, Foco)
-- **Hábitos**: criação, streak de constância e histórico completo
+- **Hábitos**: criação, streak de constância, anel de progresso e histórico completo
 - **Água**: meta diária em litros, registro por garrafa e calendário do mês
-- **Treinos**: sessões por modalidade, volume e duração, com progressão ao longo do tempo
+- **Treinos**: importação de treino por foto ou texto, sessões por modalidade, gráfico de progressão de carga e calendário
 - **Agenda e contatos**: visão semanal dos compromissos, eventos de dia inteiro e blocos de tempo
-- **Tempo**: timeline do dia com sono, blocos de foco e radar de atividade por período
-- **Diário**: registro de texto ou voz, com análise de humor por IA, tags recorrentes e histórico
+- **Tempo**: timeline do dia com sono, blocos de trabalho/foco e radar de atividade por período
+- **Diário**: registro por texto ou voz (modo diário dedicado), com análise de humor por IA, tags recorrentes e histórico
 - **Gamificação**: sistema de XP, níveis e streaks pra manter o ritmo
 
 ## Stack
