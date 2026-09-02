@@ -3,6 +3,12 @@
 > Seu dia a dia num só lugar: tarefas, hábitos, água, humor e treinos, com IA priorizando o que importa e gamificação pra manter a constância.
 
 ![Painel](screenshots/01-painel.png)
+![Jogo](screenshots/02-jogo.png)
+![Tarefas](screenshots/03-tarefas.png)
+![Agenda](screenshots/04-agenda.png)
+![Diário](screenshots/05-diario.png)
+
+> Os prints acima têm blur proposital nas informações reais (tarefas, compromissos e entradas de diário) — é o meu uso pessoal do dia a dia.
 
 ## O problema
 
@@ -14,13 +20,15 @@ O Assist centraliza o acompanhamento do dia: você registra tarefas, hábitos, c
 
 ## Funcionalidades
 
-- **Triturador de Tarefas (IA)**: analisa áudio ou texto e identifica prioridades do dia, quick wins, tarefas críticas e o que delegar ou eliminar
-- **Tarefas**: captura rápida, quadro por área (trabalho/pessoal), tarefas atrasadas em destaque
+- **Triturador de Tarefas (IA)**: propõe um "Top 3" do dia com base nas tarefas em aberto, com opção de confirmar, adiar ou trocar a sugestão
+- **Tarefas**: quadro kanban (backlog, em andamento, em análise, bloqueada) organizado por projeto/área, com prioridade e prazo
+- **Jogo**: camada de gamificação própria — nível, liga, XP, missões diárias e semanais, e pilares de evolução (Mente, Ritmo, Saúde, Corpo, Foco)
 - **Hábitos**: criação, streak de constância e histórico completo
-- **Água e humor**: registro rápido diário de hidratação e estado de humor
-- **Treinos**: log de cardio e musculação, últimos treinos e frequência
-- **Agenda e contatos**: visão do dia, próximos compromissos e tempo focado
-- **Diário**: entradas de texto livre com histórico
+- **Água**: meta diária em litros, registro por garrafa e calendário do mês
+- **Treinos**: sessões por modalidade, volume e duração, com progressão ao longo do tempo
+- **Agenda e contatos**: visão semanal dos compromissos, eventos de dia inteiro e blocos de tempo
+- **Tempo**: timeline do dia com sono, blocos de foco e radar de atividade por período
+- **Diário**: registro de texto ou voz, com análise de humor por IA, tags recorrentes e histórico
 - **Gamificação**: sistema de XP, níveis e streaks pra manter o ritmo
 
 ## Stack
